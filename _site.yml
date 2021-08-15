@@ -1,9 +1,11 @@
-name: "personal-website"
+name: "CEM_site"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "CEM Lab"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    - text: "People"
+      href: people.html
+    - text: "Projects"
+      href: projects.html
