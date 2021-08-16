@@ -9,3 +9,8 @@ navbar:
       href: people.html
     - text: "Projects"
       href: projects.html
+      
+output:
+  html_document:
+    theme: yeti
+    # css: style.css

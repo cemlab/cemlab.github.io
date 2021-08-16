@@ -2,10 +2,13 @@
 title: "About"
 ---
 
-The Communication and Emerging Media Lab (CEM Lab) is a collaborative research group that investigates the relationship between emerging communication technologies and politics broadly construed. Based in the Department of Communication at the University at Buffalo, the CEM Lab is committed to facilitating faculty-student collaborative research.
+The Communication and Emerging Media Lab (CEM Lab) is a collaborative research group that investigates the role emerging communication technologies, such as Facebook, Twitter, YouTube, and TikTok, in the political discussion and engagement of the 21-century citizens. Based in the Department of Communication at the University at Buffalo, the CEM Lab is committed to facilitating faculty-student collaborative research.
 
-With emerging communication technologies intertwined with almost every aspect of social life, particularly our political life, we are interested in understanding how they shape the lived experiences of the 21st-century citizens. Particularly, we study how people use digital media to consume news and political information, learn about politics, discuss and share political content with others, and engage in the political process. Here, we see politics as relevant to almost all facets of our public and private lives, from voting, civic participation, to what we purchase and what lifestyle we adopt.   
+With emerging communication technologies intertwined with almost every aspect of social life, particularly our political life, we are interested in understanding how they shape people’s lived experiences. Particularly, we study how people use digital media to consume news and political information, learn about politics, discuss and share political content with others, and engage in the political process. Here, we see politics as relevant to almost all facets of our public and private lives, from voting, civic participation, to what we purchase and what lifestyle we adopt.   
 
 Our methodical approach combines computational methods like NLP and network analysis with quantitative methodologies such as surveys and experiments. We believe that this mixed-method approach can help us better understand the psychological mechanisms and behavioral patterns of people’s use of emerging communication technologies and its political and social implications.
 
 The CEM Lab is dedicated to providing an open, diverse, inclusive, and collaborative space for students interested in political communication to develop their research skills. Through close faculty mentoring and weekly meetings, students are involved in all phases of the research process including idea generation, research design, data collection, analyses, and writing. We hope such hands-on research experience will prepare graduate students later conduct independent research as faculty. For undergraduate students interested in research, this lab provides an opportunity to work directly with faculty and graduate students on research projects outside of the classroom.
+
+
+![](files/social_media.jpg)
