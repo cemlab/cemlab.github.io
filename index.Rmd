@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "CEM Lab"
 ---
 
 The Communication and Emerging Media Lab (CEM Lab) is a collaborative research group that investigates the role emerging communication technologies, such as Facebook, Twitter, YouTube, and TikTok, in the political discussion and engagement of the 21-century citizens. Based in the Department of Communication at the University at Buffalo, the CEM Lab is committed to facilitating faculty-student collaborative research.
