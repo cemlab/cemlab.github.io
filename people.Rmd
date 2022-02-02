@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
----
-title: "People"
----
+<!-- --- -->
+<!-- title: "People" -->
+<!-- --- -->
 
 ## Nojin Kwak (co-director)
 <img src="files/Kwak.png" style="width:30%; border:5px solid">
@@ -25,5 +25,19 @@ contact: [yzhang20@buffalo.edu](yzhang20@buffalo.edu)
 
 Zhiying Yue is a doctoral candidate in the Department of Communication at the University at Buffalo. She researches social media use and its impact on psychological and physical well-being.
 
-## New Members
-...
+## Rui Wang
+
+<img src="files/Rui_Profile.JPG" style="width:30%; border:5px solid">
+
+Rui Wang is a current Ph.D. student in the Department of Communication at the University of Buffalo, earned her M.A. in Information and Communication Studies at Rutgers University. Her research focuses on media effects and persuasion, combining computational methods with experimental and survey designs. She is particularly interested in how new technology applied to journalism reshapes public perception. She is also interested in the effect of social media discussion on public attitudes and attention on health and politics. She had three-year teaching experience in the School of Journalism and Communication at Anhui Normal University.
+
+## Xinxia Dong
+
+<img src="files/IMG_6408.JPG" style="width:30%; border:5px solid">
+
+Xinxia Dong (M.A., Renmin University of China) is pursuing her Ph.D. in the Department of Communication at the University at Buffalo. Xinxia's academic interests lie in risk communication and social media. Her current published work primarily examines the risk information seeking and processing (RISP) model. She is also passionate about exploring emerging media and learning various computational methods.
+
+
+
+
+

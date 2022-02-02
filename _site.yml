@@ -9,6 +9,8 @@ navbar:
       href: people.html
     - text: "Projects"
       href: projects.html
+    - text: "Publications"
+      href: publications.html
       
 output:
   html_document:

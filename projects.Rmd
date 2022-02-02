@@ -1,28 +1,43 @@
----
-title: "Projects"
----
 
-## Project #1 Crossplatform information flow
+<!-- --- -->
+<!-- title: "Projects" -->
+<!-- --- -->
+
+
+## On-going
+
+### Mapping the social media ecosystem
 
 <img src="files/Multi-platform.jpeg" style="width:100%; height: 10%">
 
-This project concerns how people talked about the #MeToo movement across different social media platforms and investigates how different discourses spread across Twitter, YouTube, Instagram, & Facebook. 
+This project seeks to map out an ecosystem of social media that features both differentiation and interconnectedness. We focus on social media digital architecture, news media participation, and users' repertoire of social media applications. Using the embedded links in the posts as well as the content that embedded the links, we examine how information flows across different social media platforms using two case studies. 
 
-## Project #2 Accumulation of influence on social media
+### Keyword selection for social media data collection
 
-<img src="files/grow-followers-760x400.png" style="width:100%">
+<img src="files/data collection.jpeg" style="width:100%; height: 1%">
 
-This project studies how QAnon believers used Twitter and whether they were able to grow their influence on Twitter. Specifically, we investigate the social media use and news media uptake of Twitter users, who claimed to be QAnon believers; and we link their Twitter activity to their follower growth. This project seeks to understand this community and its growth, as seen on Twitter and news media. 
+For research on social media discourses, the keywords used to retrieve related social data content can greatly influence the findings. This project examines existing keyword selection practices in social media data collection and proposes a word-graph based snowball sampling approach for keyword selection.
 
-## Project #3 Social media activism
-
-<img src="files/activism.jpg" style="width:100%">
-
-This project investigates the power of #BlackLivesMatter, #MeToo, and #StopAsianHate movements on Twitter by focusing on the participants. We examine how they participated in the three movements and to what extent they channeled their attention from one movement to another. 
-
-## Project #4 The 2020 US presidential election study
+### The 2020 US presidential election study
 
 <img src="files/2020_election.jpeg" style="width:100%">
 
 By conducting a two-wave panel study, we plan to examine how traditional and social media consumption influences people's political beliefs and engagement.
 
+## Completed:
+
+### Accumulation of influence on social media
+
+<img src="files/grow-followers-760x400.png" style="width:100%">
+
+Though the use of social media by peripheral groups in society has received rising scholarly attention, it remains unclear how social media might contribute to their increased influence and how their social media activity evolves over time. In this project, we study actors’ strategic performance on social media, social media audience’s reaction, and news media amplification of their strategic performance, all of which might fuel each other to catapult peripheral actors to prominence. 
+
+Through an analysis of 242 QAnon Twitter accounts using topic modeling and time series modeling, we find that QAnon accounts performed their group identity that helped them attract social media audience reaction, which in turn reinforced their group identity-based performance and drove news media amplification. These results highlight the implications of social media and news media for the normalization of peripheral actors and ideologies.
+
+### #MeToo cross-platform discourses
+
+<img src="files/activism.jpg" style="width:100%">
+
+This project situates our analysis in discourses on sexual violence and gender justice activism on Twitter, Facebook, Instagram, and Reddit. We propose a three-pronged framework to understand discourses surrounding social media activism initiated by networked counterpublics: personal expression that raises public consciousness and fosters social support, calls to action that demand social changes, and contention that can either invigorate or stymie action. We use supervised machine learning to classify three discourses (networked acknowledgement, calls to action, and feminism contention) and apply time series analysis to model their interrelations. 
+
+Results show that networked acknowledgment stimulates both calls to action and feminism contention and that calls to action predicts feminism contention across all platforms. Also, these discourses were more sensitive to various events on Twitter and Facebook, but more ephemeral and cyclical on Instagram and more persistent and mutually reinforcing on Reddit. These findings underscore the opportunities and challenges in social media activism and articulate cross-platform similarities and differences. 
