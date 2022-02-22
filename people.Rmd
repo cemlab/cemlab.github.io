@@ -4,13 +4,6 @@
 <!-- title: "People" -->
 <!-- --- -->
 
-## Nojin Kwak (co-director)
-<img src="files/Kwak.png" style="width:30%; border:5px solid">
-
-Nojin Kwak (Ph.D., University of Wisconsin-Madison) is a professor in the Department of Communication at the University at Buffalo (UB), State University of New York. In addition, he currently serves as Vice Provost for International Education at UB. Kwak’s research centers on the role of communication media in civic and political engagement, and his recent studies analyze the impact of social media on community involvement, deliberative openness, and political participation. Kwak’s work has been published in top journals in the field, including *Communication Research*, *Journal of Communication*, *Human Communication Research*, *New Media and Society*, *Journal of Computer-Mediated Communication*, *Political Communication*, and *Political Research Quarterly*, and he has received numerous top paper awards at major conferences. Previously, Kwak was a professor and chair of the Department of Communication and Media at the University of Michigan.
-
-contact: [njkwak@buffalo.edu](njkwak@buffalo.edu)
-
 ## Yini Zhang (co-director)
 
 <img src="files/YiniZhang.jpg" style="width:30%; border:5px solid">
@@ -19,7 +12,23 @@ Yini Zhang (Ph.D., University of Wisconsin-Madison) is an assistant professor in
 
 contact: [yzhang20@buffalo.edu](yzhang20@buffalo.edu)
 
-## Zhiying Yue (research assistant)
+## Jiyoun Suk (co-director)
+
+<img src="files/Jiyoun.jpeg" style="width:30%; border:5px solid">
+
+Jiyoun Suk (Ph.D., University of Wisconsin-Madison) is an Assistant Professor in the Department of Communication at the University of Connecticut. In her research, she looks at how the communication processes in the contemporary media environment shape social trust, activism, and political polarization, primarily employing computational methods. In particular, she is interested in how people understand different social groups marginalized communities. Her primary line of research examines the role of networked communications in bringing out voices of social justice and equality, as in the case of the #MeToo movement. She currently looks at how digital activism is contextualized across specific geographies and social media platforms.
+
+contact: [jiyoun.suk@uconn.edu](jiyoun.suk@uconn.edu)
+
+## Nojin Kwak (co-director)
+<img src="files/Kwak.png" style="width:30%; border:5px solid">
+
+Nojin Kwak (Ph.D., University of Wisconsin-Madison) is a professor in the Department of Communication at the University at Buffalo (UB), State University of New York. In addition, he currently serves as Vice Provost for International Education at UB. Kwak’s research centers on the role of communication media in civic and political engagement, and his recent studies analyze the impact of social media on community involvement, deliberative openness, and political participation. Kwak’s work has been published in top journals in the field, including *Communication Research*, *Journal of Communication*, *Human Communication Research*, *New Media and Society*, *Journal of Computer-Mediated Communication*, *Political Communication*, and *Political Research Quarterly*, and he has received numerous top paper awards at major conferences. Previously, Kwak was a professor and chair of the Department of Communication and Media at the University of Michigan.
+
+contact: [njkwak@buffalo.edu](njkwak@buffalo.edu)
+
+
+## Zhiying Yue 
 
 <img src="files/Zhiying_Yue.jpg" style="width:30%; border:5px solid">
 
