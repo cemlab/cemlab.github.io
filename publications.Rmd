@@ -10,7 +10,11 @@ Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., Lian, R. & Kwak, N. (
 Zhang, Y., Yue, Z., Yang, X., Chen, F. & Kwak, N. (under review) How a Peripheral Ideology Becomes Prominent: Strategic Performance, Audience Reaction, and Media Amplification in the Case of QAnon Twitter Accounts.
 
 ## CONFERENCE PAPERS 
-Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., Lian, R. & Kwak, N. (2022). “The personal is political”: A cross-platform approach to how networked acknowledgment before and after #MeToo transforms into politicization. Paper accepted for the 2022 Annual Conference of ICA.
+Zhang, Y., Suk, J., Yue, Z., An, Z., Yang, D., Wang, R., Dong, X. & Joseph, K. (2022) Mapping out Information Flow in the Social Media Ecosystem by Tracing Hyperlinks. Paper accepted for presentation at the NCA 108th Annual Convention.
 
-Zhang, Y., Yue, Z., Yang, X., Chen, F. & Kwak, N. (2022). Strategic Performance, Audience Feedback, and Media Amplification: An Analysis of the Behaviors and Influence of QAnon Twitter Accounts. Paper accepted for the 2022 Annual Conference of ICA.
+Zhang, Y., Chen, F., Suk, J. & Yue, Z. (2022) WordPPR: A New Keyword Selection Method for Social Media Data Retrieval. Paper presented at the fifth annual Politics and Computational Social Science (PaCSS), Boston, MA.
+
+Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., Lian, R. & Kwak, N. (2022). “The personal is political”: A cross-platform approach to how networked acknowledgment before and after #MeToo transforms into politicization. Paper presented at the 2022 Annual Conference of ICA.
+
+Zhang, Y., Yue, Z., Yang, X., Chen, F. & Kwak, N. (2022). Strategic Performance, Audience Feedback, and Media Amplification: An Analysis of the Behaviors and Influence of QAnon Twitter Accounts. Paper presented at the 2022 Annual Conference of ICA.
 

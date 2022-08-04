@@ -28,12 +28,6 @@ Nojin Kwak (Ph.D., University of Wisconsin-Madison) is a professor in the Depart
 contact: [njkwak@buffalo.edu](njkwak@buffalo.edu)
 
 
-## Zhiying Yue 
-
-<img src="files/Zhiying_Yue.jpg" style="width:30%; border:5px solid">
-
-Zhiying Yue is a doctoral candidate in the Department of Communication at the University at Buffalo. She researches social media use and its impact on psychological and physical well-being.
-
 ## Rui Wang
 
 <img src="files/Rui_Profile.JPG" style="width:30%; border:5px solid">
@@ -46,7 +40,19 @@ Rui Wang is a current Ph.D. student in the Department of Communication at the Un
 
 Xinxia Dong (M.A., Renmin University of China) is pursuing her Ph.D. in the Department of Communication at the University at Buffalo. Xinxia's academic interests lie in risk communication and social media. Her current published work primarily examines the risk information seeking and processing (RISP) model. She is also passionate about exploring emerging media and learning various computational methods.
 
+## Dongdong Yang
+
+<img src="files/Dongdong-Yang-2018.jpeg" style="width:30%; border:5px solid">
+
+Dongdong Yang is an ABD in the Department of Communication at the University of Connecticut. She is interested in the use and effects of new communication technologies in a cross-cultural context. Specifically, her recent work investigates cross-cultural differences between Chinese and U.S. college students in social media picture editing, cute sticker use for impression management, and emoji use in online political discussion. She also examines how identity (e.g., gender, fanship, etc.) influences perceptions and attitudes in sports communication. 
 
 
+### Alums:
+
+## Zhiying Yue 
+
+<img src="files/Zhiying_Yue.jpg" style="width:30%; border:5px solid">
+
+Zhiying Yue was a research assistant at the CEM lab. She researches social media use and its impact on psychological and physical well-being. She currently holds a post-doc position at the Harvard Medical School.
 
 
