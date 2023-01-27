@@ -6,9 +6,9 @@
 
 ## Yini Zhang (co-director)
 
-<img src="files/YiniZhang.jpg" style="width:30%; border:5px solid">
+<img src="files/zhang.png" style="width:30%; border:5px solid">
 
-Yini Zhang (Ph.D., University of Wisconsin-Madison) is an assistant professor in the Department of Communication at the University at Buffalo. She applies computational methods to the study of networked actors on social media, information flows across traditional and social media, and their implications for journalism and democracy. Her work has been published in journals such as *Journal of Communication*, *Journal of Computer-Mediated Communication*, and *New Media & Society*.
+Yini Zhang (Ph.D., University of Wisconsin-Madison) is an assistant professor in the Department of Communication at the University at Buffalo. She applies computational methods to the study of networked actors on social media, information flows across traditional and social media, and their implications for journalism and democracy. Her work has been published in leading communication journals such as *Journal of Communication*, *Journal of Computer-Mediated Communication*, and *New Media & Society*.
 
 contact: [yzhang20@buffalo.edu](yzhang20@buffalo.edu)
 
@@ -28,17 +28,26 @@ Nojin Kwak (Ph.D., University of Wisconsin-Madison) is a professor in the Depart
 contact: [njkwak@buffalo.edu](njkwak@buffalo.edu)
 
 
+## Xinxia Dong
+
+<img src="files/IMG_6408.JPG" style="width:30%; border:5px solid">
+
+Xinxia Dong (M.A., Renmin University of China) is pursuing her Ph.D. in the Department of Communication at the University at Buffalo. Xinxia's academic interests lie in risk communication and social media. Her current published work primarily examines the risk information seeking and processing (RISP) model. She is also passionate about exploring emerging media and learning various computational methods.
+
+
+## Sara Holland Levin
+
+<img src="files/Sara-Holland.jpg" style="width:30%; border:5px solid">
+
+Sara Holland Levin is a PhD student in Communication at the University of Connecticut. Her research focuses on political communication on social media, with a particular focus on politicization and polarization of attitudes. Sara is especially interested in how people process misinformation on social media through a political lens, and is passionate about examining these research questions from a computational perspective. At the University of Connecticut, Sara specializes in teaching digital production coursework. 
+
+
 ## Rui Wang
 
 <img src="files/Rui_Profile.JPG" style="width:30%; border:5px solid">
 
 Rui Wang is a current Ph.D. student in the Department of Communication at the University of Buffalo, earned her M.A. in Information and Communication Studies at Rutgers University. Her research focuses on media effects and persuasion, combining computational methods with experimental and survey designs. She is particularly interested in how new technology applied to journalism reshapes public perception. She is also interested in the effect of social media discussion on public attitudes and attention on health and politics. She had three-year teaching experience in the School of Journalism and Communication at Anhui Normal University.
 
-## Xinxia Dong
-
-<img src="files/IMG_6408.JPG" style="width:30%; border:5px solid">
-
-Xinxia Dong (M.A., Renmin University of China) is pursuing her Ph.D. in the Department of Communication at the University at Buffalo. Xinxia's academic interests lie in risk communication and social media. Her current published work primarily examines the risk information seeking and processing (RISP) model. She is also passionate about exploring emerging media and learning various computational methods.
 
 ## Dongdong Yang
 

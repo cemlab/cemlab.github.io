@@ -3,13 +3,15 @@
 <!-- title: "Publications" -->
 <!-- --- -->
 
-## UNDER REVIEW
+## JOURNAL PUBLICATIONS
 
-Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., Lian, R. & Kwak, N. (R&R) When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms.
+Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., & Lian, R. (2023) When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms. *Communication Research.*
 
-Zhang, Y., Yue, Z., Yang, X., Chen, F. & Kwak, N. (R&R) How a Peripheral Ideology Becomes Prominent: Strategic Performance, Audience Reaction, and Media Amplification in the Case of QAnon Twitter Accounts.
+Zhang, Y., Yue, Z., Yang, X., Chen, F., & Kwak, N. (2022). How a peripheral ideology becomes mainstream: Strategic performance, audience reaction, and news media amplification in the case of QAnon Twitter accounts. *New Media & Society*, 14614448221137324.
 
 ## CONFERENCE PAPERS 
+Suk, J.,* Zhang, Y.,* Wang, R., Yang, D., Levin, S.H., Dong, X., & Seo, J. (2023). Fleeting Public Attention and Stubborn Partisan Passion: Politicization of #MeToo on Twitter. Paper accepted for presentation at ICA2023, Toronto, Canada. [*co-first authors]
+
 Zhang, Y., Suk, J., Yue, Z., An, Z., Yang, D., Wang, R., Dong, X. & Joseph, K. (2022) Mapping out Information Flow in the Social Media Ecosystem by Tracing Hyperlinks. Paper accepted for presentation at the NCA 108th Annual Convention.
 
 Zhang, Y., Chen, F., Suk, J. & Yue, Z. (2022) WordPPR: A New Keyword Selection Method for Social Media Data Retrieval. Paper presented at the fifth annual Politics and Computational Social Science (PaCSS), Boston, MA.
