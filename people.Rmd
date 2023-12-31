@@ -6,7 +6,7 @@
 
 ## Yini Zhang (co-director)
 
-<img src="files/zhang.png" style="width:30%; border:5px solid">
+<img src="files/headshot2024.jpg" style="width:30%; border:5px solid">
 
 Yini Zhang (Ph.D., University of Wisconsin-Madison) is an assistant professor in the Department of Communication at the University at Buffalo. She applies computational methods to the study of networked actors on social media, information flows across traditional and social media, and their implications for journalism and democracy. Her work has been published in leading communication journals such as *Journal of Communication*, *Journal of Computer-Mediated Communication*, and *New Media & Society*.
 
