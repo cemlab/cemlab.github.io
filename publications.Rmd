@@ -4,13 +4,14 @@
 <!-- --- -->
 
 ## JOURNAL PUBLICATIONS
+Zhang, Y., Chen, F., Suk, J., & Yue, Z. (2023) [WordPPR: A Researcher-Driven Computational Keyword Selection Method for Text Data Retrieval from Digital Media.](https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2278177) *Communication Methods and Measures.*
 
-Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., & Lian, R. (2023) [When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms.]() *Communication Research.*
+Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., & Lian, R. (2023) [When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms.](https://journals.sagepub.com/doi/abs/10.1177/00936502231154146) *Communication Research.*
 
 Zhang, Y., Yue, Z., Yang, X., Chen, F., & Kwak, N. (2022). [How a peripheral ideology becomes mainstream: Strategic performance, audience reaction, and news media amplification in the case of QAnon Twitter accounts.](https://journals.sagepub.com/doi/full/10.1177/14614448221137324) *New Media & Society*, 14614448221137324.
 
 ## CONFERENCE PAPERS 
-Zhang, Y., Suk, J., Levin, S.H., &Wang, R. (2023). Elon Musk, Platform Ownership, User Participation, and the Governance of Twitter. Paper presented at the American Political Science Association (APSA) Conference 2023, Los Angeles, CA.
+Zhang, Y., Suk, J., Levin, S.H., & Wang, R. (2023). Elon Musk, Platform Ownership, User Participation, and the Governance of Twitter. Paper presented at the American Political Science Association (APSA) Conference 2023, Los Angeles, CA.
 
 Suk, J., Zhang, Y., Wang, R., Yang, D., Levin, S.H., Dong, X., & Seo, J. (2023). Fleeting Public Attention and Stubborn Partisan Passion: Politicization of #MeToo on Twitter. Paper presented at ICA2023, Toronto, Canada. 
 
