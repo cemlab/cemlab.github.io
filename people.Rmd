@@ -28,7 +28,10 @@ Nojin Kwak (Ph.D., University of Wisconsin-Madison) is a professor in the Depart
 contact: [njkwak@buffalo.edu](njkwak@buffalo.edu)
 
 ## Emma Bennett
-Emma Bennett is an undergraduate student in the Department of Communication at the University of Buffalo. 
+
+<img src="files/Emma.JPG" style="width:30%; border:5px solid">
+
+Emma Bennett is a 4th Year Communication and Psychology Student at University at Buffalo. She is a communication teaching assistant and research lab participant. 
 
 ## Xinxia Dong
 
@@ -44,7 +47,10 @@ Xinxia Dong (M.A., Renmin University of China) is pursuing her Ph.D. in the Depa
 Sara Holland Levin is a PhD student in Communication at the University of Connecticut. Her research focuses on political communication on social media, with a particular focus on politicization and polarization of attitudes. Sara is especially interested in how people process misinformation on social media through a political lens, and is passionate about examining these research questions from a computational perspective. At the University of Connecticut, Sara specializes in teaching digital production coursework. 
 
 ## Junwan Seo
-Junwan Seo is a Ph.D. student in the Department of Communication at the University of Buffalo.
+
+<img src="files/Jun_Profile.jpg" style="width:30%; border:5px solid">
+
+Junwan Seo is a Ph.D. student in the Department of Communication at the University at Buffalo. His research focuses on media uses and effects, narrative effects, and computational social science. He is especially interested in the effects of emotional experiences and different narrative components such as storyline, characters, and visual features.
 
 ## Rui Wang
 
@@ -60,7 +66,7 @@ Rui Wang is a current Ph.D. student in the Department of Communication at the Un
 Dongdong Yang is an ABD in the Department of Communication at the University of Connecticut. She is interested in the use and effects of new communication technologies in a cross-cultural context. Specifically, her recent work investigates cross-cultural differences between Chinese and U.S. college students in social media picture editing, cute sticker use for impression management, and emoji use in online political discussion. She also examines how identity (e.g., gender, fanship, etc.) influences perceptions and attitudes in sports communication. 
 
 
-### Alums:
+### **Alums:**
 
 ## Zhiying Yue 
 

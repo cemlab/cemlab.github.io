@@ -13,7 +13,7 @@
 
 <title>projects.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -278,49 +275,18 @@ $(document).ready(function () {
 <!-- --- -->
 <div id="ongoing" class="section level2">
 <h2>Ongoing</h2>
-<div id="from-staywoke-to-wokemindvirus" class="section level3">
-<h3>From #StayWoke to #WokeMindVirus</h3>
-<p><img src="files/the-culture-wars.png" style="width:100%; height: 10%"></p>
-<p>With its openness and connectivity, social media can successfully
-amplify voices from traditionally marginalized people (Freelon et al.,
-2018; Jackson &amp; Foucault Welles, 2015) as well as bad actors and
-extremists (Garry et al., 2021). Research has begun to show the
-multi-platform nature of such processes. In analyzing Russian IRA
-disinformation campaign, Lukito (2019) reveals its temporal coordination
-between Twitter and Reddit, and Golovchenko and colleagues (2020) show
-the prevalence of Twitter posts embedding links to YouTube videos.
-Additionally, de Zeeuw and colleagues (2020) trace the mainstreaming of
-the QAnon conspiracy theory, traveling from 4chan to Reddit and YouTube.
-Building on the increase in multi-platform studies, we advance our
-theoretical argument on platform interrelation and ask how social media
-platforms separately and synergistically shaped the transformation of
-the meaning and usage of “wokeness” in public discourse.</p>
+<div id="ai-and-politics" class="section level3">
+<h3>AI and politics</h3>
 </div>
-<div id="elon-musk-and-twitter" class="section level3">
-<h3>Elon Musk and Twitter</h3>
-<p><img src="files/musk.png" style="width:100%; height: 10%"></p>
-<p>With social media platforms increasingly sinking into nearly all
-aspects of society (Van Dijck, 2021) and concerns over the spread of
-mis- and dis-information on various platforms (Grinberg et al., 2019),
-platform governance has come to public, media, and academic spotlight in
-recent years. Platform governance involves multiple players, including
-“platform companies, users, advertisers, governments, and other
-political actors” (Gorwa, 2019). In particular, some platforms are
-significantly tied to their owners, like Mark Zuckerberg of Facebook,
-Jack Dorsey of Twitter, and Donald Trump of Truth Social. Most recently,
-Elon Musk’s takeover of one of the most influential platforms, Twitter,
-has ignited debates about privatization of public sphere, content
-moderation (and restoration of controversial accounts), and their
-political consequences. This raises questions about the role that a
-single person can/should have in impacting public discourse on a
-platform. Building on platform governance (Van Dijck &amp; Poell, 2013)
-and social media public opinion (Zhang et al., 2022) scholarship, we
-conceptualize social media discourses surrounding platform governance as
-an expression of public opinion and an object with business impact. By
-examining how platform ownership change might impact the intensity of,
-engagement with, and topics in platform governance discourses, we seek
-to contribute to our understanding of how the democratic and capitalist
-aspects of platforms are intertwined.</p>
+<div
+id="themes-and-politicization-surrounding-fentanyl-misuse-on-video-platforms"
+class="section level3">
+<h3>Themes and Politicization surrounding Fentanyl Misuse on Video
+Platforms</h3>
+</div>
+<div id="mapping-out-political-chatter-on-tiktok"
+class="section level3">
+<h3>Mapping out political chatter on TikTok</h3>
 </div>
 </div>
 <div id="completed" class="section level2">
@@ -383,9 +349,9 @@ among others. Providing robust empirical evidence, this study advances
 our theoretical understanding of social media platforms as forming an
 ecosystem connected through users’ sharing practices.</p>
 </div>
-<div id="the-politicization-and-polarization-of-the-metoo-movement"
+<div id="the-politicization-of-the-metoo-movement"
 class="section level3">
-<h3>The politicization and polarization of the #MeToo movement</h3>
+<h3>The politicization of the #MeToo movement</h3>
 <p>With existing research showing the fragilities of social media
 activism and the stubbornness of partisan beliefs and attitudes, we
 examine whether partisans politicize social media activism.
@@ -400,6 +366,48 @@ for the overwhelming majority of the tweets. In the next step, we will
 apply supervised machine learning to classify different expressions and
 use time series modeling to examine the relationship between features of
 accusations and types of expressions.</p>
+</div>
+<div id="from-staywoke-to-wokemindvirus" class="section level3">
+<h3>From #StayWoke to #WokeMindVirus</h3>
+<p>This project explores how the discourse surrounding a racially
+marginalized community becomes politicized via culture wars narratives
+across platforms. Drawing from the thesis of identity politics and
+political polarization, we discuss how racial justice discourse is
+hijacked by partisan leaders and their followers over time and explain
+how this process plays out through both differentiated and coordinated
+social media platform use. Situating our discussion in the ‘woke’
+discourse as originated within the Black Twitter community, we collect
+data from 2012 through 2022 on Twitter and YouTube and apply user and
+content-level computational analyses to reveal that the term woke has
+been increasingly amplified in culture wars on both platforms over time.
+In particular, partisan users on Twitter dominated and politicized the
+discourse while lifestyle and entertainment channels on YouTube were
+most prevalent. The cross-platform analysis reveals that YouTube was a
+top domain within external links embedded in tweets, and Twitter was
+also a top destination within the external links embedded in YouTube
+video descriptions. Conservatives were especially keen on sharing
+right-wing content to interconnect platforms, suggesting the success of
+cross-platform coordination in helping them amplify culture war issues.
+Both theoretical and political implications are discussed.</p>
+</div>
+<div id="elon-musk-and-twitter" class="section level3">
+<h3>Elon Musk and Twitter</h3>
+<p>Centering on social media’s public- and profit-oriented nature, this
+project theorizes how social media users are empowered and constrained
+when participating in platform governance. The empirical analysis
+focuses on user responses before and after Elon Musk’s official
+acquisition of Twitter, utilizing cluster analysis and topic modeling to
+examine the volume and content of related discourses among Twitter user
+groups. Our results point to user constraint in platform governance.
+Though a diverse set of users, such as partisans, bots, and
+cryptocurrency enthusiasts, participated with diverging objectives,
+partisans dominated the conversations. There was an upsurge in user
+volume and activity level post-acquisition among liberal users, whose
+critical voices on platform governance might have bolstered platform
+business. Potential bots also increased in volume and amplified
+political topics. Our findings shed light on the challenges of
+user-driven platform governance, underscoring the complex interplay
+between platform users, economy, and governance.</p>
 </div>
 </div>
 
