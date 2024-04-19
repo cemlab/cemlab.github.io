@@ -8,7 +8,7 @@
 
 <img src="files/headshot2024.jpg" style="width:30%; border:5px solid">
 
-Yini Zhang (Ph.D., University of Wisconsin-Madison) is an assistant professor in the Department of Communication at the University at Buffalo. She applies computational methods to the study of networked actors on social media, information flows across traditional and social media, and their implications for journalism and democracy. Her work has been published in leading communication journals such as *Journal of Communication*, *Journal of Computer-Mediated Communication*, and *New Media & Society*.
+Yini Zhang (Ph.D., University of Wisconsin-Madison) is an assistant professor in the Department of Communication at the University at Buffalo. She applies computational methods to the study of social media and emerging communication technologies. Specifically, she examines the processes and outcomes of primarily political communication within and beyond different corners of the new media landscape. Her work has been published in leading communication journals such as *Journal of Communication*, *Journal of Computer-Mediated Communication*, and *New Media & Society*. Her research has been supported by funders like the National Science Foundation and the Knight Foundation and received media coverage from major news outlets like the New York Times, BBC, and USA TODAY.
 
 contact: [yzhang20@buffalo.edu](yzhang20@buffalo.edu)
 
@@ -31,13 +31,7 @@ contact: [njkwak@buffalo.edu](njkwak@buffalo.edu)
 
 <img src="files/Emma.JPG" style="width:30%; border:5px solid">
 
-Emma Bennett is a 4th Year Communication and Psychology Student at University at Buffalo. She is a communication teaching assistant and research lab participant. 
-
-## Xinxia Dong
-
-<img src="files/IMG_6408.JPG" style="width:30%; border:5px solid">
-
-Xinxia Dong (M.A., Renmin University of China) is pursuing her Ph.D. in the Department of Communication at the University at Buffalo. Xinxia's academic interests lie in risk communication and social media. Her current published work primarily examines the risk information seeking and processing (RISP) model. She is also passionate about exploring emerging media and learning various computational methods.
+Emma Bennett is a 4th-year Communication and Psychology student at University at Buffalo. She is a communication teaching assistant and research lab participant. 
 
 
 ## Sara Holland Levin
@@ -66,12 +60,16 @@ Rui Wang is a current Ph.D. student in the Department of Communication at the Un
 Dongdong Yang is an ABD in the Department of Communication at the University of Connecticut. She is interested in the use and effects of new communication technologies in a cross-cultural context. Specifically, her recent work investigates cross-cultural differences between Chinese and U.S. college students in social media picture editing, cute sticker use for impression management, and emoji use in online political discussion. She also examines how identity (e.g., gender, fanship, etc.) influences perceptions and attitudes in sports communication. 
 
 
-### **Alums:**
+### **ALUMNI NETWORK:**
 
 ## Zhiying Yue 
 
 <img src="files/Zhiying_Yue.jpg" style="width:30%; border:5px solid">
 
-Zhiying Yue was a research assistant in the CEM lab. She researches social media use and its impact on psychological and physical well-being. She currently holds a post-doc position at the Harvard Medical School.
+Zhiying Yue (Ph.D., University at Buffalo) was a research assistant in the CEM lab. She researches social media use and its impact on psychological and physical well-being. She currently holds a post-doc position at the Harvard Medical School.
 
+## Xinxia Dong
 
+<img src="files/IMG_6408.JPG" style="width:30%; border:5px solid">
+
+Xinxia Dong (M.A., Renmin University of China) is pursuing her Ph.D. in the Department of Communication at the University at Buffalo. Xinxia's academic interests lie in risk communication and social media. Her current published work primarily examines the risk information seeking and processing (RISP) model. She is also passionate about exploring emerging media and learning various computational methods.
