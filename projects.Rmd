@@ -7,8 +7,20 @@
 ## Ongoing
 
 ### AI and politics
+Communication transmitters have been targets for political scrutiny and manipulation throughout
+history. Critics of new technologies point to political biases in the digital age, where conservatives claim a
+liberal bias in news media, and liberals criticize social media for facilitating the spread of misinformation from
+the right. The proliferation of AI is no exception to this trend. Following the launch of ChatGPT, we suggest that
+accusations of political bias in AI will intensify, mirroring the historical trajectory of earlier communication
+technologies that attract criticism and politicization by strong partisans. If AI turns political, it could severely
+impact public trust and adoption of AI, and more worryingly, lead to the rise of "partisan AI”. Drawing from the
+literature of identity politics and political media attacks, we approach this issue by asking questions about the
+transition from technological to political AI, as well as platform and user differences in the politicization of AI.
+We anticipate that the politicized turn in public discourse surrounding AI will be particularly salient among
+active partisans. We will investigate this question from a multi-platform perspective by comparing both TikTok
+and YouTube data. Broadly, we anticipate an emerging trend of associating AI with political discourse.
 
-### Themes and Politicization surrounding Fentanyl Misuse on Video Platforms
+### A visual analysis of "Woke" discourse on YouTube
 
 ### Mapping out political chatter on TikTok
 
@@ -26,9 +38,9 @@ Though the use of social media by peripheral groups in society has received risi
 
 Through an analysis of 242 QAnon Twitter accounts using topic modeling and time series modeling, we find that QAnon accounts performed their group identity that helped them attract social media audience reaction, which in turn reinforced their group identity-based performance and drove news media amplification. These results highlight the implications of social media and news media for the normalization of peripheral actors and ideologies.
 
-### Mapping the social media ecosystem
+### Mapping the social media system
 
-Extending research on the technological features and user practices of social media, this article theorizes social media as an ecosystem consisting of simultaneously differentiated yet interconnected platforms. We argue that how platforms are interconnected in this ecosystem is shaped by social media users’ cross-platform and cross-media sharing practices, which result in the dissemination of information across the social media ecosystem via hyperlinks. Using two distinct large-scale datasets on prominent issues in the U.S. and a rigorous manual coding of link domains, we investigate the linking patterns of 187 platforms. Our results reveal the prominent role of cross-media sharing within the social media ecosystem, with center-left and right-wing news being shared most frequently. Also, YouTube and Twitter emerge as two leading platforms facilitating interconnections among others. Providing robust empirical evidence, this study advances our theoretical understanding of social media platforms as forming an ecosystem connected through users’ sharing practices.
+Extending research on the technological features and user practices of social media, this article theorizes social media as a system consisting of simultaneously differentiated yet interconnected platforms. We argue that how platforms are interconnected in this system is shaped by social media users’ cross-platform and cross-media sharing practices, which result in the dissemination of information across the social media ecosystem via hyperlinks. Using two distinct large-scale datasets on prominent issues in the U.S. and a rigorous manual coding of link domains, we investigate the linking patterns of 187 platforms. Our results reveal the prominent role of cross-media sharing within the social media ecosystem, with center-left and right-wing news being shared most frequently. Also, YouTube and Twitter emerge as two leading platforms facilitating interconnections among others. Providing robust empirical evidence, this study advances our theoretical understanding of social media platforms as forming an ecosystem connected through users’ sharing practices.
 
 ### The politicization of the #MeToo movement
 
