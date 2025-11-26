@@ -1,33 +1,58 @@
+::: {.publications-page}
 
-<!-- --- -->
-<!-- title: "Publications" -->
-<!-- --- -->
+<div class="section-toggle">
 
-## JOURNAL PUBLICATIONS
-Zhang, Y., Suk, J., Yang, D., Yue, Z., Wang, R., Dong, X., An, Z., & Joseph, K. (2025) [Center-Left and Right-Wing News, YouTube, and Twitter as Key Connectors
-in the Social Media System: A Cross-Media and Cross-Platform Analysis of Hyperlinks.](https://doi.org/10.51685/jqd.2025.007.) *Journal of Quantitative Description: Digital Media.* https://doi.org/10.51685/jqd.2025.007.
+<div class="section-toggle-header" data-toggle="collapse" data-target="#journal-pubs" aria-expanded="true">
+  <h2>JOURNAL PUBLICATIONS</h2>
+  <span class="toggle-icon" aria-hidden="true">&#x25BC;</span>
+</div>
 
-Wang, R., Zhang, Y., Suk, J., & Levin, S.H.(2024) [Empowered or Constrained
+<div id="journal-pubs" class="section-toggle-body collapse in" markdown="1">
+
+Suk, J.\*, Zhang, Y.\*, Wang, R., Yang, D., Levin, S.H., Seo, J. & Dong, X. (2025). [From activism to polarization: temporal dynamics of #MeToo politicization on Twitter/X.](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2581014) *Information, Communication & Society.* [*co-first authors] doi: 10.1080/1369118X.2025.2581014.
+
+Zhang, Y.\*, Suk, J.\*, Yang, D., Yue, Z., Wang, R., Dong, X., An, Z., & Joseph, K. (2025). [Center-Left and Right-Wing News, YouTube, and Twitter as Key Connectors
+in the Social Media System: A Cross-Media and Cross-Platform Analysis of Hyperlinks.](https://doi.org/10.51685/jqd.2025.007.) *Journal of Quantitative Description: Digital Media.* [*co-first authors] https://doi.org/10.51685/jqd.2025.007.
+
+Wang, R., Zhang, Y., Suk, J., & Levin, S.H. (2024). [Empowered or Constrained
 in Platform Governance? An Analysis of Twitter Users’ Responses to Elon Musk’s
 Takeover.](https://journals.sagepub.com/doi/full/10.1177/20563051241277606) *Social Media + Society.* https://doi.org/0.1177/20563051241277606.
 
-Zhang, Y., Chen, F., Suk, J., & Yue, Z. (2023) [WordPPR: A Researcher-Driven Computational Keyword Selection Method for Text Data Retrieval from Digital Media.](https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2278177) *Communication Methods and Measures.* https://doi.org/10.1080/19312458.2023.2278177
+Zhang, Y., Chen, F., Suk, J., & Yue, Z. (2023). [WordPPR: A Researcher-Driven Computational Keyword Selection Method for Text Data Retrieval from Digital Media.](https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2278177) *Communication Methods and Measures.* https://doi.org/10.1080/19312458.2023.2278177
 
-Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., & Lian, R. (2023) [When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms.](https://journals.sagepub.com/doi/abs/10.1177/00936502231154146) *Communication Research.* https://doi.org/10.1177/00936502231154146
+Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., & Lian, R. (2023). [When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms.](https://journals.sagepub.com/doi/abs/10.1177/00936502231154146) *Communication Research.* https://doi.org/10.1177/00936502231154146
 
 Zhang, Y., Yue, Z., Yang, X., Chen, F., & Kwak, N. (2022). [How a peripheral ideology becomes mainstream: Strategic performance, audience reaction, and news media amplification in the case of QAnon Twitter accounts.](https://journals.sagepub.com/doi/full/10.1177/14614448221137324) *New Media & Society*, 14614448221137324. https://doi.org/10.1177/14614448221137324
 
-## UNDER REVIEW
+</div>
+</div>
+
+<div class="section-toggle under-review-block">
+
+<div class="section-toggle-header" data-toggle="collapse" data-target="#under-review" aria-expanded="true">
+  <h2>MANUSCRIPTS UNDER REVIEW</h2>
+  <span class="toggle-icon" aria-hidden="true">&#x25BC;</span>
+</div>
+
+<div id="under-review" class="section-toggle-body collapse in" markdown="1">
 
 Levin, S.H., Wang, R., Seo, J, Leong, Y.Y., Bennett, M., Yang, D., Yang, Z., Chen, M., Zhang, Y., & Suk, J. (R&R). From #StayWoke to “Culture Wars”: How Social Justice Discourse Is Separately and Synergistically Politicized onTwitter and YouTube.
 
-Suk, J., Zhang, Y., Wang, R., Yang, D., Levin, S.H., Seo, J. & Dong, X. (R&R). Politicization as a Temporal Phenomenon: Longitudinal Evolution of Social Media Activism #MeToo in a Polarized Era.
+</div>
+</div>
 
-## CONFERENCE PAPERS 
+<div class="section-toggle">
+
+<div class="section-toggle-header" data-toggle="collapse" data-target="#conference-papers" aria-expanded="true">
+  <h2>CONFERENCE PAPERS</h2>
+  <span class="toggle-icon" aria-hidden="true">&#x25BC;</span>
+</div>
+
+<div id="conference-papers" class="section-toggle-body collapse in" markdown="1">
 
 Wang, R., Seo, J., Yim, C., Levin, S.H., Romann, L., Suk, J., & Zhang, Y. (2025). [Work In Progress] A cycle of contention: the politicized turn of discourse of AI on social media after ChatGPT. Paper accepted for presentation at the International Communication Association (ICA) Conference 2025, Denver, CO.
 
-Wang, R., Zhang, Y., Suk, J., & Levin, S.H.(2024). Empowered or Constrained in Platform Governance? An Analysis of Twitter Users’ Responses to Elon Musk’s Takeover. Paper presented at the Association for Education in Journalism and Mass Communication (AEJMC) Conference 2024, Philadelphia, PA.
+Wang, R, Zhang, Y., Suk, J., & Levin, S.H.(2024). Empowered or Constrained in Platform Governance? An Analysis of Twitter Users’ Responses to Elon Musk’s Takeover. Paper presented at the Association for Education in Journalism and Mass Communication (AEJMC) Conference 2024, Philadelphia, PA.
 
 Wang, R., Levin, S.H., Seo, J, Leong, Y.Y., Bennett, E., Yang, D., Yang, Z., Chen, M., Zhang, Y., & Suk, J. (2024). From #StayWoke to “Culture Wars”: How Social Justice Discourse Is Separately and Synergistically Politicized on Twitter and YouTube. Paper accepted for presentation at the American Political Science Association (APSA) Conference 2024, Philadelphia, PA.
 
@@ -43,3 +68,7 @@ Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., Lian, R. & Kwak, N. (
 
 Zhang, Y., Yue, Z., Yang, X., Chen, F. & Kwak, N. (2022). Strategic Performance, Audience Feedback, and Media Amplification: An Analysis of the Behaviors and Influence of QAnon Twitter Accounts. Paper presented at the 2022 Annual Conference of ICA.
 
+</div>
+</div>
+
+:::

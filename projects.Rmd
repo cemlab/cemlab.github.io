@@ -1,12 +1,9 @@
+## ONGOING PROJECTS
 
-<!-- --- -->
-<!-- title: "Projects" -->
-<!-- --- -->
+### AI AND POLITICS
 
+![](files/project-ai-politics.png){.project-img}
 
-## Ongoing
-
-### AI and politics
 Communication transmitters have been targets for political scrutiny and manipulation throughout
 history. Critics of new technologies point to political biases in the digital age, where conservatives claim a
 liberal bias in news media, and liberals criticize social media for facilitating the spread of misinformation from
@@ -20,36 +17,71 @@ We anticipate that the politicized turn in public discourse surrounding AI will 
 active partisans. We will investigate this question from a multi-platform perspective by comparing both TikTok
 and YouTube data. Broadly, we anticipate an emerging trend of associating AI with political discourse.
 
-### A visual analysis of "Woke" discourse on YouTube
+### A VISUAL ANALYSIS OF "WOKE" DISCOURSE ON YOUTUBE
 
-### Mapping out political chatter on TikTok
+![](files/project-woke-youtube.png){.project-img}
 
-## Completed:
+Scholars have extensively examined the politicization of social issues and movements,
+conceptualizing politicization as comprising actor participation and discursive conflict
+dimensions. Despite the central role of social media platforms, particularly YouTube, in shaping
+politicized discourse, limited attention has been paid to the visual mechanisms through which
+politicization is performed and intensified. This study addresses that gap by analyzing YouTube
+thumbnails of “woke”-related videos published between 2012 and 2022. We examine how
+political actors and conflicts are visually portrayed and whether the visual politicization of
+“woke” is more pronounced among conservative and anti-woke channels than among liberal and
+\#StayWoke channels. Additionally, we investigate how stylistic features that likely amplify
+politicization – visual arousal and visual loudness – ideological groups. Together, these analyses
+advance understanding of how the politicization of “woke” discourse is both represented and
+intensified through visual communication on social media
 
-### #MeToo cross-platform discourses
+### EVOLUTION OF DEI DISCOURSE ACROSS SOCIAL AND NEWS MEDIA 
+
+![](files/project-dei-discourse.png){.project-img}
+
+Over the past few years, public discourse around diversity, equity, and inclusion has shifted from broadly supportive to increasingly polarized and contested. This project asks what has driven that change and how social media platforms have shaped and amplified it.
+
+### TRUST IN GAI ACROSS THE DIGITAL MEDIA ECOSYSTEM
+
+![](files/project-trust-gai.png){.project-img}
+
+How do people express trust and distrust in generative AI across social media platforms? What do these expressions reveal about how GAI is positioned within the broader digital media ecosystem?
+
+<div class="section-toggle">
+
+<div class="section-toggle-header" data-toggle="collapse" data-target="#completed-section" aria-expanded="true">
+  <h2 id="completed-projects">COMPLETED PROJECTS</h2>
+  <span class="toggle-icon" aria-hidden="true">&#x25BC;</span>
+</div>
+
+<div id="completed-section" class="section-toggle-body collapse in" markdown="1">
+
+### #METOO CROSS-PLATFORM DISCOURSES
 
 This project situates our analysis in discourses on sexual violence and gender justice activism on Twitter, Facebook, Instagram, and Reddit. We propose a three-pronged framework to understand discourses surrounding social media activism initiated by networked counterpublics: personal expression that raises public consciousness and fosters social support, calls to action that demand social changes, and contention that can either invigorate or stymie action. We use supervised machine learning to classify three discourses (networked acknowledgement, calls to action, and feminism contention) and apply time series analysis to model their interrelations. 
 
 Results show that networked acknowledgment stimulates both calls to action and feminism contention and that calls to action predicts feminism contention across all platforms. Also, these discourses were more sensitive to various events on Twitter and Facebook, but more ephemeral and cyclical on Instagram and more persistent and mutually reinforcing on Reddit. These findings underscore the opportunities and challenges in social media activism and articulate cross-platform similarities and differences. 
 
-### Accumulation of influence on social media
+### ACCUMULATION OF INFLUENCE ON SOCIAL MEDIA
 
 Though the use of social media by peripheral groups in society has received rising scholarly attention, it remains unclear how social media might contribute to their increased influence and how their social media activity evolves over time. In this project, we study actors’ strategic performance on social media, social media audience’s reaction, and news media amplification of their strategic performance, all of which might fuel each other to catapult peripheral actors to prominence. 
 
 Through an analysis of 242 QAnon Twitter accounts using topic modeling and time series modeling, we find that QAnon accounts performed their group identity that helped them attract social media audience reaction, which in turn reinforced their group identity-based performance and drove news media amplification. These results highlight the implications of social media and news media for the normalization of peripheral actors and ideologies.
 
-### Mapping the social media system
+### MAPPING THE SOCIAL MEDIA SYSTEM
 
 Extending research on the technological features and user practices of social media, this article theorizes social media as a system consisting of simultaneously differentiated yet interconnected platforms. We argue that how platforms are interconnected in this system is shaped by social media users’ cross-platform and cross-media sharing practices, which result in the dissemination of information across the social media ecosystem via hyperlinks. Using two distinct large-scale datasets on prominent issues in the U.S. and a rigorous manual coding of link domains, we investigate the linking patterns of 187 platforms. Our results reveal the prominent role of cross-media sharing within the social media ecosystem, with center-left and right-wing news being shared most frequently. Also, YouTube and Twitter emerge as two leading platforms facilitating interconnections among others. Providing robust empirical evidence, this study advances our theoretical understanding of social media platforms as forming an ecosystem connected through users’ sharing practices.
 
-### The politicization of the #MeToo movement
+### THE POLITICIZATION OF THE #METOO MOVEMENT
 
 With existing research showing the fragilities of social media activism and the stubbornness of partisan beliefs and attitudes, we examine whether partisans politicize social media activism. Politicization is conceptualized as partisans crowding out non-partisan participants, dominating conversations and debates, and weaving selective events into narratives. Our large-scale and multi-layered computational analysis of discourses surrounding the #MeToo movement is based on a comprehensive list of related accusations and a vast corpus of all #MeToo tweets. Through cluster analysis of the retweet network, we identified different groups and found that partisan users accounted for the overwhelming majority of the tweets. In the next step, we will apply supervised machine learning to classify different expressions and use time series modeling to examine the relationship between features of accusations and types of expressions.
 
-### From #StayWoke to #WokeMindVirus
+### FROM #STAYWOKE TO #WOKEMINDVIRUS
 
 This project explores how the discourse surrounding a racially marginalized community becomes politicized via culture wars narratives across platforms. Drawing from the thesis of identity politics and political polarization, we discuss how racial justice discourse is hijacked by partisan leaders and their followers over time and explain how this process plays out through both differentiated and coordinated social media platform use. Situating our discussion in the ‘woke’ discourse as originated within the Black Twitter community, we collect data from 2012 through 2022 on Twitter and YouTube and apply user and content-level computational analyses to reveal that the term woke has been increasingly amplified in culture wars on both platforms over time. In particular, partisan users on Twitter dominated and politicized the discourse while lifestyle and entertainment channels on YouTube were most prevalent. The cross-platform analysis reveals that YouTube was a top domain within external links embedded in tweets, and Twitter was also a top destination within the external links embedded in YouTube video descriptions. Conservatives were especially keen on sharing right-wing content to interconnect platforms, suggesting the success of cross-platform coordination in helping them amplify culture war issues. Both theoretical and political implications are discussed.  
 
-### Elon Musk and Twitter
+### ELON MUSK AND TWITTER
 
 Centering on social media’s public- and profit-oriented nature, this project theorizes how social media users are empowered and constrained when participating in platform governance. The empirical analysis focuses on user responses before and after Elon Musk’s official acquisition of Twitter, utilizing cluster analysis and topic modeling to examine the volume and content of related discourses among Twitter user groups. Our results point to user constraint in platform governance. Though a diverse set of users, such as partisans, bots, and cryptocurrency enthusiasts, participated with diverging objectives, partisans dominated the conversations. There was an upsurge in user volume and activity level post-acquisition among liberal users, whose critical voices on platform governance might have bolstered platform business. Potential bots also increased in volume and amplified political topics. Our findings shed light on the challenges of user-driven platform governance, underscoring the complex interplay between platform users, economy, and governance.
+
+</div>
+</div>

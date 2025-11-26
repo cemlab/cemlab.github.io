@@ -11,8 +11,8 @@ navbar:
       href: projects.html
     - text: "Publications"
       href: publications.html
-      
+
 output:
   html_document:
-    theme: yeti
-    # css: style.css
+    theme: flatly
+    css: style.css

@@ -1,5 +1,302 @@
+/* -----------------------------------------------------------
+   Global layout & typography
+----------------------------------------------------------- */
+
+body {
+  background-color: #f3f4f6;
+  color: #111827;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               Helvetica, Arial, sans-serif;
+  font-size: 1.5rem; /* large, readable base text */
+}
+
+/* main page container that R Markdown uses */
+.main-container {
+  max-width: 1000px;
+  margin: 40px auto 30px;  /* reduced margins */
+  padding: 32px 36px 40px;
+  background-color: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 20px 55px rgba(15, 23, 42, 0.10);
+}
+
+/* headings */
+h1 {
+  font-size: 2.4rem;
+  font-weight: 650;
+  letter-spacing: 0.02em;
+  color: #0f172a;
+  margin-top: 0;
+  margin-bottom: 1.4rem;
+}
+
+h2 {
+  font-size: 2.0rem;          /* larger than body text */
+  font-weight: 600;
+  color: #111827;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+  text-transform: uppercase;  /* capitalized section titles */
+  letter-spacing: 0.08em;
+}
+
+h3 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #111827;
+  margin-top: 1.6rem;
+  margin-bottom: 0.4rem;
+}
+
+/* body text */
+p {
+  font-size: 1em;  /* inherits from body (1.5rem) */
+  line-height: 1.7;
+  margin-bottom: 0.9rem;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+/* links */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+/* default image behavior */
 img {
-  width: 400px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* -----------------------------------------------------------
+   Navbar (overriding flatly slightly)
+----------------------------------------------------------- */
+
+.navbar.navbar-default {
+  background-color: #0f172a;
+  border-color: transparent;
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.3);
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+  color: #e5e7eb !important;
+  font-weight: 500;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff !important;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  background-color: #111827 !important;
+  color: #ffffff !important;
+  box-shadow: inset 0 -3px 0 #3b82f6;
+}
+
+/* -----------------------------------------------------------
+   Home / About page (index.rmd)
+----------------------------------------------------------- */
+
+/* centered, wide hero image */
+.hero-img {
   display: block;
-  margin: 0 auto;
+  width: 80%;          /* 4/5 of the content width */
+  max-width: 80%;
+  height: auto;        /* show full image, no cropping */
+  margin: 0 auto 1.5rem;
+  border-radius: 18px;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.18);
+}
+
+
+/* two logos side by side under text */
+.about-logo-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  max-width: 480px;          /* narrower than main container */
+  margin: 0.8rem auto 1.8rem;
+}
+
+.about-logo-img {
+  max-width: 180px;          /* hard cap on each logo */
+  width: 45%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* -----------------------------------------------------------
+   People page (people.rmd) – aligned headshots with 1:4 ratio
+----------------------------------------------------------- */
+
+.person-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.75rem;
+  margin-bottom: 1.7rem;
+}
+
+.person-photo {
+  flex: 1;                /* 1 part */
+  max-width: 170px;       /* visually stable width */
+}
+
+.person-text {
+  flex: 4;                /* 4 parts => 1:4 ratio */
+}
+
+/* uniform profile photos */
+.profile-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 999px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.12);
+}
+
+/* -----------------------------------------------------------
+   Projects page (projects.rmd)
+----------------------------------------------------------- */
+
+.project-img {
+  width: 100%;
+  max-width: 100%;
+  height: 120px; /* ~50% of the earlier natural banner height */
+  object-fit: cover; /* keeps the image undistorted, crops top/bottom if needed */
+  border-radius: 16px;
+  margin: 0.75rem 0 1.25rem;
+  box-shadow: 0 14px 32px rgba(15, 23, 42, 0.16);
+}
+
+
+/* -----------------------------------------------------------
+   Publications page (publications.rmd)
+----------------------------------------------------------- */
+
+.publications-page > h2 {
+  font-size: 2.0rem;
+  letter-spacing: 0.08em;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  color: #4b5563;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.2rem;
+}
+
+/* hanging indent for each reference entry */
+.publications-page p {
+  margin-bottom: 0.6rem;
+  text-indent: -1.5rem;
+  padding-left: 1.5rem;
+}
+
+/* small spacing helper when under-review is inside a toggle */
+.under-review-block {
+  margin-top: 1.5rem;
+}
+
+/* -----------------------------------------------------------
+   Collapsible sections (Alumni, Completed, Journal, Under review, Conf)
+----------------------------------------------------------- */
+
+.section-toggle {
+  margin-top: 2rem;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  background-color: #f9fafb;
+}
+
+.section-toggle-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0.6rem 0.9rem;
+  cursor: pointer;
+}
+
+.section-toggle-header h2 {
+  margin: 0;
+  font-size: 2.0rem;
+}
+
+.section-toggle-header .toggle-icon {
+  margin-left: auto;        /* push triangle to the far right */
+  font-size: 1.6rem;
+  color: #6b7280;
+  transition: transform 0.2s ease;
+}
+
+/* rotate icon when collapsed (Bootstrap updates aria-expanded) */
+.section-toggle-header[aria-expanded="false"] .toggle-icon {
+  transform: rotate(-90deg);
+}
+
+.section-toggle-header:hover {
+  background-color: #e5e7eb;
+}
+
+.section-toggle-body {
+  padding: 0 0.9rem 0.75rem;
+}
+
+.section-toggle-body.collapse.in {
+  border-top: 1px solid #e5e7eb;
+  margin-top: 0.35rem;
+}
+
+/* -----------------------------------------------------------
+   Responsiveness
+----------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .main-container {
+    margin: 35px 12px 20px;
+    padding: 24px 18px 28px;
+    border-radius: 14px;
+  }
+
+.hero-img {
+    width: 100%;       /* use full width on small screens */
+    max-width: 100%;
+    height: auto;      /* still no cropping */
+  }
+
+  .about-logo-row {
+    max-width: 320px;
+    gap: 1rem;
+  }
+
+  .about-logo-img {
+    max-width: 140px;
+    width: 45%;
+  }
+
+  .person-row {
+    flex-direction: column;
+  }
+
+  .person-photo {
+    max-width: 220px;
+  }
+
+  .publications-page p {
+    text-indent: 0;
+    padding-left: 0;
+  }
 }
