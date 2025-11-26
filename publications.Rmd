@@ -12,7 +12,7 @@
 Suk, J.\*, Zhang, Y.\*, Wang, R., Yang, D., Levin, S.H., Seo, J. & Dong, X. (2025). [From activism to polarization: temporal dynamics of #MeToo politicization on Twitter/X.](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2581014) *Information, Communication & Society.* [*co-first authors] doi: 10.1080/1369118X.2025.2581014.
 
 Zhang, Y.\*, Suk, J.\*, Yang, D., Yue, Z., Wang, R., Dong, X., An, Z., & Joseph, K. (2025). [Center-Left and Right-Wing News, YouTube, and Twitter as Key Connectors
-in the Social Media System: A Cross-Media and Cross-Platform Analysis of Hyperlinks.](https://doi.org/10.51685/jqd.2025.007.) *Journal of Quantitative Description: Digital Media.* [*co-first authors] https://doi.org/10.51685/jqd.2025.007.
+in the Social Media System: A Cross-Media and Cross-Platform Analysis of Hyperlinks.](https://journalqd.org/article/view/5984) *Journal of Quantitative Description: Digital Media.* [*co-first authors] https://doi.org/10.51685/jqd.2025.007.
 
 Wang, R., Zhang, Y., Suk, J., & Levin, S.H. (2024). [Empowered or Constrained
 in Platform Governance? An Analysis of Twitter Users’ Responses to Elon Musk’s
