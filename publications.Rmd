@@ -9,7 +9,7 @@
 
 <div id="journal-pubs" class="section-toggle-body collapse in" markdown="1">
 
-Suk, J.\*, Zhang, Y.\*, Wang, R., Yang, D., Levin, S.H., Seo, J. & Dong, X. (2025). [From activism to polarization: temporal dynamics of #MeToo politicization on Twitter/X.](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2581014) *Information, Communication & Society.* [*co-first authors] doi: 10.1080/1369118X.2025.2581014.
+Suk, J.\*, Zhang, Y.\*, Wang, R., Yang, D., Levin, S.H., Seo, J. & Dong, X. (2025). [From activism to polarization: temporal dynamics of #MeToo politicization on Twitter/X.](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2581014) *Information, Communication & Society.* [*co-first authors] https://doi.org/10.1080/1369118X.2025.2581014.
 
 Zhang, Y.\*, Suk, J.\*, Yang, D., Yue, Z., Wang, R., Dong, X., An, Z., & Joseph, K. (2025). [Center-Left and Right-Wing News, YouTube, and Twitter as Key Connectors
 in the Social Media System: A Cross-Media and Cross-Platform Analysis of Hyperlinks.](https://journalqd.org/article/view/5984) *Journal of Quantitative Description: Digital Media.* [*co-first authors] https://doi.org/10.51685/jqd.2025.007.
@@ -20,9 +20,9 @@ Takeover.](https://journals.sagepub.com/doi/full/10.1177/20563051241277606) *Soc
 
 Zhang, Y., Chen, F., Suk, J., & Yue, Z. (2023). [WordPPR: A Researcher-Driven Computational Keyword Selection Method for Text Data Retrieval from Digital Media.](https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2278177) *Communication Methods and Measures.* https://doi.org/10.1080/19312458.2023.2278177
 
-Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., & Lian, R. (2023). [When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms.](https://journals.sagepub.com/doi/abs/10.1177/00936502231154146) *Communication Research.* https://doi.org/10.1177/00936502231154146
+Suk, J., Zhang, Y., Yue, Z., Wang, R., Dong, X., Yang, D., & Lian, R. (2023). [When the Personal Becomes Political: Unpacking the Dynamics of Sexual Violence and Gender Justice Discourses across Four Social Media Platforms.](https://journals.sagepub.com/doi/abs/10.1177/00936502231154146) *Communication Research.* https://doi.org/10.1177/00936502231154146.
 
-Zhang, Y., Yue, Z., Yang, X., Chen, F., & Kwak, N. (2022). [How a peripheral ideology becomes mainstream: Strategic performance, audience reaction, and news media amplification in the case of QAnon Twitter accounts.](https://journals.sagepub.com/doi/full/10.1177/14614448221137324) *New Media & Society*, 14614448221137324. https://doi.org/10.1177/14614448221137324
+Zhang, Y., Yue, Z., Yang, X., Chen, F., & Kwak, N. (2022). [How a peripheral ideology becomes mainstream: Strategic performance, audience reaction, and news media amplification in the case of QAnon Twitter accounts.](https://journals.sagepub.com/doi/full/10.1177/14614448221137324) *New Media & Society*, 14614448221137324. https://doi.org/10.1177/14614448221137324.
 
 </div>
 </div>

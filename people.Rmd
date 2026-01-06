@@ -43,7 +43,7 @@ contact: [njkwak@buffalo.edu](njkwak@buffalo.edu)
 </div>
 </div>
 
-## AFOLABI FRANCA
+<!-- ## AFOLABI FRANCA -->
 
 ## YIJIN GUO
 
@@ -60,7 +60,30 @@ Yijin Guo is a Ph.D. student in the Department of Communication at the Universit
 
 ## JAMES KWARTENG
 
+<div class="person-row">
+<div class="person-photo">
+<img src="files/Kwarteng.png" class="profile-photo">
+</div>
+<div class="person-text" markdown="1">
+
+James Kwarteng is pursuing his Ph.D. in Communication at the University of Connecticut. He holds a master's degree in communication from Eastern New Mexico University and a bachelor’s in English from Kwame Nkrumah University of Science and Technology. Before his Ph.D. at the University of Connecticut, James was the Radio Station and Social Media Manager of Eastern New Mexico University's Hound Waves Radio. He managed social media websites and designed a mobile app for Hound Waves Radio. His research interests revolve around social media, interactive media, and computational methods.
+
+</div>
+</div>
+
+
 ## TAHLEEN LATTIMER
+
+<div class="person-row">
+<div class="person-photo">
+<img src="files/LATTIMER.JPG" class="profile-photo">
+</div>
+<div class="person-text" markdown="1">
+
+Tahleen Lattimer (PhD, University at Buffalo) is a postdoctoral research fellow at the Center for Disability Health & Wellness in the Department of Physical Medicine & Rehabilitation at Michigan Medicine, University of Michigan. Her research examines the intersection of health and media, with a focus on addressing the needs and experiences of disability populations across the lifespan.
+
+</div>
+</div>
 
 ## YI YIN LEONG
 
@@ -157,7 +180,7 @@ Xinxia Dong (Ph.D., University at Buffalo) is currently a Lecturer in the School
 </div>
 <div class="person-text" markdown="1">
 
-Emma Bennett is an MA student in the Parsons School of Design. 
+Emma Bennett (BA, University at Buffalo) is an MA student in the Parsons School of Design. 
 
 </div>
 </div>
